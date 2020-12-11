@@ -1,0 +1,724 @@
+Array
+(
+    [date] => 2020-12-11 14:40:07
+    [data] => RetailCrm\Response\ApiResponse Object
+(
+    [statusCode:protected] => 200
+    [rawResponse:protected] => {"success":true,"id":7196,"order":{"slug":7196,"id":7196,"number":"36355","externalId":"36355","orderType":"eshop-individual","orderMethod":"shopping-cart","countryIso":"RU","createdAt":"2020-12-11 14:06:29","statusUpdatedAt":"2020-12-11 14:15:50","summ":11280,"totalSumm":11280,"prepaySum":0,"purchaseSumm":11280,"markDatetime":"2020-12-11 14:11:11","lastName":"Фомин","firstName":"Илья","phone":"+7 (962) 364-71-11","email":"fomini@list.ru","call":false,"expired":false,"managerId":20,"customer":{"type":"customer","id":7020,"isContact":false,"createdAt":"2020-12-11 14:11:11","managerId":20,"vip":false,"bad":false,"site":"omegasport-tekhnolab","contragent":{"contragentType":"individual"},"tags":[],"marginSumm":11280,"totalSumm":11280,"averageSumm":11280,"ordersCount":1,"costSumm":0,"customFields":[],"address":{"id":5703,"city":"Видное","text":"Ермолинская 1-31"},"segments":[],"firstName":"Илья","lastName":"Фомин","patronymic":"","presumableSex":"male","email":"fomini@list.ru","phones":[{"number":"+7 (962) 364-71-11"}]},"contact":{"type":"customer","id":7020,"isContact":false,"createdAt":"2020-12-11 14:11:11","managerId":20,"vip":false,"bad":false,"site":"omegasport-tekhnolab","contragent":{"contragentType":"individual"},"tags":[],"marginSumm":11280,"totalSumm":11280,"averageSumm":11280,"ordersCount":1,"costSumm":0,"customFields":[],"address":{"id":5703,"city":"Видное","text":"Ермолинская 1-31"},"segments":[],"firstName":"Илья","lastName":"Фомин","patronymic":"","presumableSex":"male","email":"fomini@list.ru","phones":[{"number":"+7 (962) 364-71-11"}]},"contragent":{"contragentType":"individual"},"delivery":{"cost":0,"netCost":0,"address":{"index":"142701","countryIso":"RU","region":"Московская область","regionId":5,"city":"Видное","street":"Ермолинская улица","building":"1","text":"Ермолинская улица, д. 1"}},"site":"omegasport-tekhnolab","status":"perezvon-2","statusComment":"","items":[{"markingCodes":[],"id":13484,"initialPrice":11280,"discountTotal":0,"vatRate":"none","createdAt":"2020-12-11 14:06:29","quantity":1,"status":"new","offer":{"displayName":"Аэрохоккей START LINE PLAY TRANSFORM ICE","id":34892,"externalId":"8093","xmlId":"8093","name":"Аэрохоккей START LINE PLAY TRANSFORM ICE","article":"SLP-6030FE","vatRate":"none","unit":{"code":"pc","name":"Штука","sym":"шт."}},"properties":[],"purchasePrice":11280}],"payments":{},"fromApi":true,"weight":8000,"length":1500,"width":600,"height":400,"shipped":false,"customFields":{"lock":true,"premiya":false,"vrucheno":false,"tip_dostavki":"dostavka-do-dveri","schet_poluchen":false,"schet_zaproshen":false}}}
+    [response:protected] => Array
+        (
+            [success] => 1
+            [id] => 7196
+            [order] => Array
+                (
+                    [slug] => 7196
+                    [id] => 7196
+                    [number] => 36355
+                    [externalId] => 36355
+                    [orderType] => eshop-individual
+                    [orderMethod] => shopping-cart
+                    [countryIso] => RU
+                    [createdAt] => 2020-12-11 14:06:29
+                    [statusUpdatedAt] => 2020-12-11 14:15:50
+                    [summ] => 11280
+                    [totalSumm] => 11280
+                    [prepaySum] => 0
+                    [purchaseSumm] => 11280
+                    [markDatetime] => 2020-12-11 14:11:11
+                    [lastName] => Фомин
+                    [firstName] => Илья
+                    [phone] => +7 (962) 364-71-11
+                    [email] => fomini@list.ru
+                    [call] => 
+                    [expired] => 
+                    [managerId] => 20
+                    [customer] => Array
+                        (
+                            [type] => customer
+                            [id] => 7020
+                            [isContact] => 
+                            [createdAt] => 2020-12-11 14:11:11
+                            [managerId] => 20
+                            [vip] => 
+                            [bad] => 
+                            [site] => omegasport-tekhnolab
+                            [contragent] => Array
+                                (
+                                    [contragentType] => individual
+                                )
+
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 11280
+                            [totalSumm] => 11280
+                            [averageSumm] => 11280
+                            [ordersCount] => 1
+                            [costSumm] => 0
+                            [customFields] => Array
+                                (
+                                )
+
+                            [address] => Array
+                                (
+                                    [id] => 5703
+                                    [city] => Видное
+                                    [text] => Ермолинская 1-31
+                                )
+
+                            [segments] => Array
+                                (
+                                )
+
+                            [firstName] => Илья
+                            [lastName] => Фомин
+                            [patronymic] => 
+                            [presumableSex] => male
+                            [email] => fomini@list.ru
+                            [phones] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [number] => +7 (962) 364-71-11
+                                        )
+
+                                )
+
+                        )
+
+                    [contact] => Array
+                        (
+                            [type] => customer
+                            [id] => 7020
+                            [isContact] => 
+                            [createdAt] => 2020-12-11 14:11:11
+                            [managerId] => 20
+                            [vip] => 
+                            [bad] => 
+                            [site] => omegasport-tekhnolab
+                            [contragent] => Array
+                                (
+                                    [contragentType] => individual
+                                )
+
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 11280
+                            [totalSumm] => 11280
+                            [averageSumm] => 11280
+                            [ordersCount] => 1
+                            [costSumm] => 0
+                            [customFields] => Array
+                                (
+                                )
+
+                            [address] => Array
+                                (
+                                    [id] => 5703
+                                    [city] => Видное
+                                    [text] => Ермолинская 1-31
+                                )
+
+                            [segments] => Array
+                                (
+                                )
+
+                            [firstName] => Илья
+                            [lastName] => Фомин
+                            [patronymic] => 
+                            [presumableSex] => male
+                            [email] => fomini@list.ru
+                            [phones] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [number] => +7 (962) 364-71-11
+                                        )
+
+                                )
+
+                        )
+
+                    [contragent] => Array
+                        (
+                            [contragentType] => individual
+                        )
+
+                    [delivery] => Array
+                        (
+                            [cost] => 0
+                            [netCost] => 0
+                            [address] => Array
+                                (
+                                    [index] => 142701
+                                    [countryIso] => RU
+                                    [region] => Московская область
+                                    [regionId] => 5
+                                    [city] => Видное
+                                    [street] => Ермолинская улица
+                                    [building] => 1
+                                    [text] => Ермолинская улица, д. 1
+                                )
+
+                        )
+
+                    [site] => omegasport-tekhnolab
+                    [status] => perezvon-2
+                    [statusComment] => 
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 13484
+                                    [initialPrice] => 11280
+                                    [discountTotal] => 0
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-11 14:06:29
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => Аэрохоккей START LINE PLAY TRANSFORM ICE
+                                            [id] => 34892
+                                            [externalId] => 8093
+                                            [xmlId] => 8093
+                                            [name] => Аэрохоккей START LINE PLAY TRANSFORM ICE
+                                            [article] => SLP-6030FE
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => pc
+                                                    [name] => Штука
+                                                    [sym] => шт.
+                                                )
+
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 11280
+                                )
+
+                        )
+
+                    [payments] => Array
+                        (
+                        )
+
+                    [fromApi] => 1
+                    [weight] => 8000
+                    [length] => 1500
+                    [width] => 600
+                    [height] => 400
+                    [shipped] => 
+                    [customFields] => Array
+                        (
+                            [lock] => 1
+                            [premiya] => 
+                            [vrucheno] => 
+                            [tip_dostavki] => dostavka-do-dveri
+                            [schet_poluchen] => 
+                            [schet_zaproshen] => 
+                        )
+
+                )
+
+        )
+
+)
+
+)
+Array
+(
+    [date] => 2020-12-11 14:47:36
+    [data] => RetailCrm\Response\ApiResponse Object
+(
+    [statusCode:protected] => 200
+    [rawResponse:protected] => {"success":true,"id":7196,"order":{"slug":7196,"id":7196,"number":"36355","externalId":"36355","orderType":"eshop-individual","orderMethod":"shopping-cart","countryIso":"RU","createdAt":"2020-12-11 14:06:29","statusUpdatedAt":"2020-12-11 14:15:50","summ":11280,"totalSumm":11280,"prepaySum":0,"purchaseSumm":11280,"markDatetime":"2020-12-11 14:11:11","lastName":"Фомин","firstName":"Илья","phone":"+7 (962) 364-71-11","email":"fomini@list.ru","call":false,"expired":false,"managerId":20,"customer":{"type":"customer","id":7020,"isContact":false,"createdAt":"2020-12-11 14:11:11","managerId":20,"vip":false,"bad":false,"site":"omegasport-tekhnolab","contragent":{"contragentType":"individual"},"tags":[],"marginSumm":11280,"totalSumm":11280,"averageSumm":11280,"ordersCount":1,"costSumm":0,"customFields":[],"address":{"id":5703,"city":"Видное","text":"Ермолинская 1-31"},"segments":[],"firstName":"Илья","lastName":"Фомин","patronymic":"","presumableSex":"male","email":"fomini@list.ru","phones":[{"number":"+7 (962) 364-71-11"}]},"contact":{"type":"customer","id":7020,"isContact":false,"createdAt":"2020-12-11 14:11:11","managerId":20,"vip":false,"bad":false,"site":"omegasport-tekhnolab","contragent":{"contragentType":"individual"},"tags":[],"marginSumm":11280,"totalSumm":11280,"averageSumm":11280,"ordersCount":1,"costSumm":0,"customFields":[],"address":{"id":5703,"city":"Видное","text":"Ермолинская 1-31"},"segments":[],"firstName":"Илья","lastName":"Фомин","patronymic":"","presumableSex":"male","email":"fomini@list.ru","phones":[{"number":"+7 (962) 364-71-11"}]},"contragent":{"contragentType":"individual"},"delivery":{"cost":0,"netCost":0,"address":{"index":"142701","countryIso":"RU","region":"Московская область","regionId":5,"city":"Видное","street":"Ермолинская улица","building":"1","text":"Ермолинская улица, д. 1"}},"site":"omegasport-tekhnolab","status":"perezvon-2","statusComment":"","items":[{"markingCodes":[],"id":13484,"initialPrice":11280,"discountTotal":0,"vatRate":"none","createdAt":"2020-12-11 14:06:29","quantity":1,"status":"new","offer":{"displayName":"Аэрохоккей START LINE PLAY TRANSFORM ICE","id":34892,"externalId":"8093","xmlId":"8093","name":"Аэрохоккей START LINE PLAY TRANSFORM ICE","article":"SLP-6030FE","vatRate":"none","unit":{"code":"pc","name":"Штука","sym":"шт."}},"properties":[],"purchasePrice":11280}],"payments":{},"fromApi":true,"weight":8000,"length":1500,"width":600,"height":400,"shipped":false,"customFields":{"lock":true,"premiya":false,"vrucheno":false,"tip_dostavki":"dostavka-do-dveri","schet_poluchen":false,"schet_zaproshen":false}}}
+    [response:protected] => Array
+        (
+            [success] => 1
+            [id] => 7196
+            [order] => Array
+                (
+                    [slug] => 7196
+                    [id] => 7196
+                    [number] => 36355
+                    [externalId] => 36355
+                    [orderType] => eshop-individual
+                    [orderMethod] => shopping-cart
+                    [countryIso] => RU
+                    [createdAt] => 2020-12-11 14:06:29
+                    [statusUpdatedAt] => 2020-12-11 14:15:50
+                    [summ] => 11280
+                    [totalSumm] => 11280
+                    [prepaySum] => 0
+                    [purchaseSumm] => 11280
+                    [markDatetime] => 2020-12-11 14:11:11
+                    [lastName] => Фомин
+                    [firstName] => Илья
+                    [phone] => +7 (962) 364-71-11
+                    [email] => fomini@list.ru
+                    [call] => 
+                    [expired] => 
+                    [managerId] => 20
+                    [customer] => Array
+                        (
+                            [type] => customer
+                            [id] => 7020
+                            [isContact] => 
+                            [createdAt] => 2020-12-11 14:11:11
+                            [managerId] => 20
+                            [vip] => 
+                            [bad] => 
+                            [site] => omegasport-tekhnolab
+                            [contragent] => Array
+                                (
+                                    [contragentType] => individual
+                                )
+
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 11280
+                            [totalSumm] => 11280
+                            [averageSumm] => 11280
+                            [ordersCount] => 1
+                            [costSumm] => 0
+                            [customFields] => Array
+                                (
+                                )
+
+                            [address] => Array
+                                (
+                                    [id] => 5703
+                                    [city] => Видное
+                                    [text] => Ермолинская 1-31
+                                )
+
+                            [segments] => Array
+                                (
+                                )
+
+                            [firstName] => Илья
+                            [lastName] => Фомин
+                            [patronymic] => 
+                            [presumableSex] => male
+                            [email] => fomini@list.ru
+                            [phones] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [number] => +7 (962) 364-71-11
+                                        )
+
+                                )
+
+                        )
+
+                    [contact] => Array
+                        (
+                            [type] => customer
+                            [id] => 7020
+                            [isContact] => 
+                            [createdAt] => 2020-12-11 14:11:11
+                            [managerId] => 20
+                            [vip] => 
+                            [bad] => 
+                            [site] => omegasport-tekhnolab
+                            [contragent] => Array
+                                (
+                                    [contragentType] => individual
+                                )
+
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 11280
+                            [totalSumm] => 11280
+                            [averageSumm] => 11280
+                            [ordersCount] => 1
+                            [costSumm] => 0
+                            [customFields] => Array
+                                (
+                                )
+
+                            [address] => Array
+                                (
+                                    [id] => 5703
+                                    [city] => Видное
+                                    [text] => Ермолинская 1-31
+                                )
+
+                            [segments] => Array
+                                (
+                                )
+
+                            [firstName] => Илья
+                            [lastName] => Фомин
+                            [patronymic] => 
+                            [presumableSex] => male
+                            [email] => fomini@list.ru
+                            [phones] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [number] => +7 (962) 364-71-11
+                                        )
+
+                                )
+
+                        )
+
+                    [contragent] => Array
+                        (
+                            [contragentType] => individual
+                        )
+
+                    [delivery] => Array
+                        (
+                            [cost] => 0
+                            [netCost] => 0
+                            [address] => Array
+                                (
+                                    [index] => 142701
+                                    [countryIso] => RU
+                                    [region] => Московская область
+                                    [regionId] => 5
+                                    [city] => Видное
+                                    [street] => Ермолинская улица
+                                    [building] => 1
+                                    [text] => Ермолинская улица, д. 1
+                                )
+
+                        )
+
+                    [site] => omegasport-tekhnolab
+                    [status] => perezvon-2
+                    [statusComment] => 
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 13484
+                                    [initialPrice] => 11280
+                                    [discountTotal] => 0
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-11 14:06:29
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => Аэрохоккей START LINE PLAY TRANSFORM ICE
+                                            [id] => 34892
+                                            [externalId] => 8093
+                                            [xmlId] => 8093
+                                            [name] => Аэрохоккей START LINE PLAY TRANSFORM ICE
+                                            [article] => SLP-6030FE
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => pc
+                                                    [name] => Штука
+                                                    [sym] => шт.
+                                                )
+
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 11280
+                                )
+
+                        )
+
+                    [payments] => Array
+                        (
+                        )
+
+                    [fromApi] => 1
+                    [weight] => 8000
+                    [length] => 1500
+                    [width] => 600
+                    [height] => 400
+                    [shipped] => 
+                    [customFields] => Array
+                        (
+                            [lock] => 1
+                            [premiya] => 
+                            [vrucheno] => 
+                            [tip_dostavki] => dostavka-do-dveri
+                            [schet_poluchen] => 
+                            [schet_zaproshen] => 
+                        )
+
+                )
+
+        )
+
+)
+
+)
+Array
+(
+    [date] => 2020-12-11 14:51:02
+    [callData] => Array
+(
+    [id] => 7196
+    [statuses] => 1
+    [calls] => 0
+)
+
+    [data] => RetailCrm\Response\ApiResponse Object
+(
+    [statusCode:protected] => 200
+    [rawResponse:protected] => {"success":true,"id":7196,"order":{"slug":7196,"id":7196,"number":"36355","externalId":"36355","orderType":"eshop-individual","orderMethod":"shopping-cart","countryIso":"RU","createdAt":"2020-12-11 14:06:29","statusUpdatedAt":"2020-12-11 14:15:50","summ":11280,"totalSumm":11280,"prepaySum":0,"purchaseSumm":11280,"markDatetime":"2020-12-11 14:11:11","lastName":"Фомин","firstName":"Илья","phone":"+7 (962) 364-71-11","email":"fomini@list.ru","call":false,"expired":false,"managerId":20,"customer":{"type":"customer","id":7020,"isContact":false,"createdAt":"2020-12-11 14:11:11","managerId":20,"vip":false,"bad":false,"site":"omegasport-tekhnolab","contragent":{"contragentType":"individual"},"tags":[],"marginSumm":11280,"totalSumm":11280,"averageSumm":11280,"ordersCount":1,"costSumm":0,"customFields":[],"address":{"id":5703,"city":"Видное","text":"Ермолинская 1-31"},"segments":[],"firstName":"Илья","lastName":"Фомин","patronymic":"","presumableSex":"male","email":"fomini@list.ru","phones":[{"number":"+7 (962) 364-71-11"}]},"contact":{"type":"customer","id":7020,"isContact":false,"createdAt":"2020-12-11 14:11:11","managerId":20,"vip":false,"bad":false,"site":"omegasport-tekhnolab","contragent":{"contragentType":"individual"},"tags":[],"marginSumm":11280,"totalSumm":11280,"averageSumm":11280,"ordersCount":1,"costSumm":0,"customFields":[],"address":{"id":5703,"city":"Видное","text":"Ермолинская 1-31"},"segments":[],"firstName":"Илья","lastName":"Фомин","patronymic":"","presumableSex":"male","email":"fomini@list.ru","phones":[{"number":"+7 (962) 364-71-11"}]},"contragent":{"contragentType":"individual"},"delivery":{"cost":0,"netCost":0,"address":{"index":"142701","countryIso":"RU","region":"Московская область","regionId":5,"city":"Видное","street":"Ермолинская улица","building":"1","text":"Ермолинская улица, д. 1"}},"site":"omegasport-tekhnolab","status":"perezvon-2","statusComment":"","items":[{"markingCodes":[],"id":13484,"initialPrice":11280,"discountTotal":0,"vatRate":"none","createdAt":"2020-12-11 14:06:29","quantity":1,"status":"new","offer":{"displayName":"Аэрохоккей START LINE PLAY TRANSFORM ICE","id":34892,"externalId":"8093","xmlId":"8093","name":"Аэрохоккей START LINE PLAY TRANSFORM ICE","article":"SLP-6030FE","vatRate":"none","unit":{"code":"pc","name":"Штука","sym":"шт."}},"properties":[],"purchasePrice":11280}],"payments":{},"fromApi":true,"weight":8000,"length":1500,"width":600,"height":400,"shipped":false,"customFields":{"lock":true,"premiya":false,"vrucheno":false,"tip_dostavki":"dostavka-do-dveri","schet_poluchen":false,"schet_zaproshen":false}}}
+    [response:protected] => Array
+        (
+            [success] => 1
+            [id] => 7196
+            [order] => Array
+                (
+                    [slug] => 7196
+                    [id] => 7196
+                    [number] => 36355
+                    [externalId] => 36355
+                    [orderType] => eshop-individual
+                    [orderMethod] => shopping-cart
+                    [countryIso] => RU
+                    [createdAt] => 2020-12-11 14:06:29
+                    [statusUpdatedAt] => 2020-12-11 14:15:50
+                    [summ] => 11280
+                    [totalSumm] => 11280
+                    [prepaySum] => 0
+                    [purchaseSumm] => 11280
+                    [markDatetime] => 2020-12-11 14:11:11
+                    [lastName] => Фомин
+                    [firstName] => Илья
+                    [phone] => +7 (962) 364-71-11
+                    [email] => fomini@list.ru
+                    [call] => 
+                    [expired] => 
+                    [managerId] => 20
+                    [customer] => Array
+                        (
+                            [type] => customer
+                            [id] => 7020
+                            [isContact] => 
+                            [createdAt] => 2020-12-11 14:11:11
+                            [managerId] => 20
+                            [vip] => 
+                            [bad] => 
+                            [site] => omegasport-tekhnolab
+                            [contragent] => Array
+                                (
+                                    [contragentType] => individual
+                                )
+
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 11280
+                            [totalSumm] => 11280
+                            [averageSumm] => 11280
+                            [ordersCount] => 1
+                            [costSumm] => 0
+                            [customFields] => Array
+                                (
+                                )
+
+                            [address] => Array
+                                (
+                                    [id] => 5703
+                                    [city] => Видное
+                                    [text] => Ермолинская 1-31
+                                )
+
+                            [segments] => Array
+                                (
+                                )
+
+                            [firstName] => Илья
+                            [lastName] => Фомин
+                            [patronymic] => 
+                            [presumableSex] => male
+                            [email] => fomini@list.ru
+                            [phones] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [number] => +7 (962) 364-71-11
+                                        )
+
+                                )
+
+                        )
+
+                    [contact] => Array
+                        (
+                            [type] => customer
+                            [id] => 7020
+                            [isContact] => 
+                            [createdAt] => 2020-12-11 14:11:11
+                            [managerId] => 20
+                            [vip] => 
+                            [bad] => 
+                            [site] => omegasport-tekhnolab
+                            [contragent] => Array
+                                (
+                                    [contragentType] => individual
+                                )
+
+                            [tags] => Array
+                                (
+                                )
+
+                            [marginSumm] => 11280
+                            [totalSumm] => 11280
+                            [averageSumm] => 11280
+                            [ordersCount] => 1
+                            [costSumm] => 0
+                            [customFields] => Array
+                                (
+                                )
+
+                            [address] => Array
+                                (
+                                    [id] => 5703
+                                    [city] => Видное
+                                    [text] => Ермолинская 1-31
+                                )
+
+                            [segments] => Array
+                                (
+                                )
+
+                            [firstName] => Илья
+                            [lastName] => Фомин
+                            [patronymic] => 
+                            [presumableSex] => male
+                            [email] => fomini@list.ru
+                            [phones] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [number] => +7 (962) 364-71-11
+                                        )
+
+                                )
+
+                        )
+
+                    [contragent] => Array
+                        (
+                            [contragentType] => individual
+                        )
+
+                    [delivery] => Array
+                        (
+                            [cost] => 0
+                            [netCost] => 0
+                            [address] => Array
+                                (
+                                    [index] => 142701
+                                    [countryIso] => RU
+                                    [region] => Московская область
+                                    [regionId] => 5
+                                    [city] => Видное
+                                    [street] => Ермолинская улица
+                                    [building] => 1
+                                    [text] => Ермолинская улица, д. 1
+                                )
+
+                        )
+
+                    [site] => omegasport-tekhnolab
+                    [status] => perezvon-2
+                    [statusComment] => 
+                    [items] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [markingCodes] => Array
+                                        (
+                                        )
+
+                                    [id] => 13484
+                                    [initialPrice] => 11280
+                                    [discountTotal] => 0
+                                    [vatRate] => none
+                                    [createdAt] => 2020-12-11 14:06:29
+                                    [quantity] => 1
+                                    [status] => new
+                                    [offer] => Array
+                                        (
+                                            [displayName] => Аэрохоккей START LINE PLAY TRANSFORM ICE
+                                            [id] => 34892
+                                            [externalId] => 8093
+                                            [xmlId] => 8093
+                                            [name] => Аэрохоккей START LINE PLAY TRANSFORM ICE
+                                            [article] => SLP-6030FE
+                                            [vatRate] => none
+                                            [unit] => Array
+                                                (
+                                                    [code] => pc
+                                                    [name] => Штука
+                                                    [sym] => шт.
+                                                )
+
+                                        )
+
+                                    [properties] => Array
+                                        (
+                                        )
+
+                                    [purchasePrice] => 11280
+                                )
+
+                        )
+
+                    [payments] => Array
+                        (
+                        )
+
+                    [fromApi] => 1
+                    [weight] => 8000
+                    [length] => 1500
+                    [width] => 600
+                    [height] => 400
+                    [shipped] => 
+                    [customFields] => Array
+                        (
+                            [lock] => 1
+                            [premiya] => 
+                            [vrucheno] => 
+                            [tip_dostavki] => dostavka-do-dveri
+                            [schet_poluchen] => 
+                            [schet_zaproshen] => 
+                        )
+
+                )
+
+        )
+
+)
+
+)

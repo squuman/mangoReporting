@@ -1,0 +1,7 @@
+{
+    "name": "astar/sand-2811",
+    "require": {
+        "sharoff/mango-office-api": "^0.0.1",
+        "retailcrm/api-client-php": "~5.0"
+    }
+}

@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91755e94-eec9-4a50-8b48-2257c9dc8d25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CS-4023/.idea/CS-4023.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS-4023/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS-4344-2/.idea/CS-4344-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS-4626/.idea/SAND-2093.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS-4626/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CS-5715/.idea/CS-5715.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IMB-193/.idea/IMB-193.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2185/.idea/SAND-2185.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/.idea/SAND-2453.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/access.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/actions/addIntegrations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/actions/deleteIntegrations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/actions/get.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/integrationInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/integrationScripts/game-house-ru_between_testgamehouse4eo/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/integrationTemplate/config.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/integrationTemplate/integration.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2453/script2020-09-02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/.idea/SAND-2464.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/.idea/sand2464.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/ClearCopies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/components/Telphin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/createReportConv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/phones.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2464/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2669/.idea/SAND-2669.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2721/.idea/SAND-2721.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2721/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2735/.idea/SAND-2735.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2735/scripts/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2782/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2782/.idea/SAND-2782.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2782/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2782/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2782/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2808/.idea/SAND-2808.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2808/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2819/.idea/SAND-2819.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2820/.idea/SAND-2820.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2878/.idea/SAND-2878.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2897/.idea/SAND-2897.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2908/.idea/SAND-2908.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SAND-2948/.idea/SAND-2948.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alexandria/.idea/alexandria.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alexandria/bad.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../alexandria/deleteEmails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/.idea/bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/UPGRADING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/BodySummarizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/BodySummarizerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/ClientTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/InvalidArgumentException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/MessageFormatterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Middleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Pool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/Utils.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/guzzle/src/functions_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/.php_cs.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/phpstan-baseline.neon" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/phpstan.neon.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/psalm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/AggregateException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/CancellationException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/Coroutine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/Create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/Each.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/EachPromise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/Is.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/Promise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/RejectionException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/TaskQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/Utils.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/promises/src/functions_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/AppendStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/BufferStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/CachingStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/DroppingStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/FnStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/InflateStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/LimitStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/MessageTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/MimeType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/MultipartStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/NoSeekStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/PumpStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Query.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Rfc7230.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/ServerRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Stream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/StreamWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/UploadedFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Uri.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/UriNormalizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/UriResolver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/Utils.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/guzzlehttp/psr7/src/functions_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/CREDITS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/SECURITY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/doc/01-utils.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/ChatAction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommands/ChatsCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommands/CleanupCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommands/DebugCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommands/SendtoallCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommands/SendtochannelCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/AdminCommands/WhoisCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/Command.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/SystemCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/SystemCommands/CallbackqueryCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/SystemCommands/GenericmessageCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/SystemCommands/InlinequeryCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/UserCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Commands/UserCommands/StartCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Conversation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/ConversationDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/DB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Animation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Audio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/BotCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/CallbackQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ChannelPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Chat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ChatMember.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ChatPermissions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ChatPhoto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ChosenInlineResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Dice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Document.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/EditedChannelPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/EditedMessage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Entity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Games/CallbackGame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Games/Game.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Games/GameHighScore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineKeyboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineKeyboardButton.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineEntity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResult.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultArticle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultAudio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedAudio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedDocument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedGif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedMpeg4Gif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedPhoto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedSticker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVideo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultCachedVoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultContact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultDocument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultGif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultLocation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultMpeg4Gif.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultPhoto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVenue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVideo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InlineQuery/InlineQueryResultVoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMedia/InputMedia.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMedia/InputMediaAnimation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMedia/InputMediaAudio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMedia/InputMediaDocument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMedia/InputMediaPhoto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMedia/InputMediaVideo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMessageContent/InputContactMessageContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMessageContent/InputLocationMessageContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMessageContent/InputMessageContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMessageContent/InputTextMessageContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/InputMessageContent/InputVenueMessageContent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Keyboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/KeyboardButton.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/KeyboardButtonPollType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Location.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/LoginUrl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/MaskPosition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Message.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/MessageEntity.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/Invoice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/LabeledPrice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/OrderInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/PreCheckoutQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingAddress.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingOption.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/ShippingQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Payments/SuccessfulPayment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/PhotoSize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Poll.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/PollAnswer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/PollOption.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ReplyToMessage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/ServerResponse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Sticker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/StickerSet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/EncryptedCredentials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/EncryptedPassportElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementError.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorDataField.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorFrontSide.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorReverseSide.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorSelfie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorTranslationFiles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportElementError/PassportElementErrorUnspecified.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/TelegramPassport/PassportFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/UserProfilePhotos.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Venue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Video.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/VideoNote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/Voice.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Entities/WebhookInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Exception/InvalidBotTokenException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Exception/TelegramException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Exception/TelegramLogException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/Telegram.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/src/TelegramLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/structure.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.44.1-0.45.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.47.1-0.48.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.50.0-0.51.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.52.0-0.53.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.53.0-0.54.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.54.1-0.55.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.56.0-0.57.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.57.0-0.58.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.60.0-0.61.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.61.1-0.62.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/db-schema-update/0.62.0-0.63.0.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/longman/telegram-bot/utils/importFromLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/src/ClientExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/src/ClientInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/src/NetworkExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-client/src/RequestExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/MessageInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/RequestInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/ResponseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/ServerRequestInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/StreamInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/UploadedFileInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/http-message/src/UriInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/AbstractLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/InvalidArgumentException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/LogLevel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/LoggerAwareInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/LoggerAwareTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/LoggerInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/LoggerTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/NullLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/Test/DummyTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/Test/LoggerInterfaceTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/Psr/Log/Test/TestLogger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/psr/log/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/ralouphie/getallheaders/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/ralouphie/getallheaders/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/ralouphie/getallheaders/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bot/vendor/ralouphie/getallheaders/src/getallheaders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dpsvet/.idea/dpsvet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dpsvet/processing/.idea/processing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.idea/groupReporting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../groupReporting/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imb-126/.idea/imb-126.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imb-126/resources/views/profiles.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imb-126/resources/views/settings.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imb-126/resources/views/upload.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sand-2810/.idea/sand-2810.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sharoff/mango-office-api" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/retailcrm/api-client-php" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1lAe3PimBhJyZtSSmfOsRtotAO8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\openserver\OpenServer\domains\SAND-2811" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91755e94-eec9-4a50-8b48-2257c9dc8d25" name="Default Changelist" comment="" />
+      <created>1607044122325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607044122325</updated>
+      <workItem from="1607044124800" duration="863000" />
+      <workItem from="1607334456343" duration="1958000" />
+      <workItem from="1607486279244" duration="7099000" />
+      <workItem from="1607522014281" duration="3354000" />
+      <workItem from="1607589130300" duration="18000" />
+      <workItem from="1607596417853" duration="10859000" />
+      <workItem from="1607673220589" duration="14763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607589157864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1607589157864" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1607493091123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607493091123" />
+  </component>
+</project>
