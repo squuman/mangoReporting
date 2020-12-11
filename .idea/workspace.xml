@@ -486,6 +486,8 @@
       <change afterPath="$PROJECT_DIR$/../imb-126/resources/views/upload.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../sand-2810/.idea/sand-2810.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -542,7 +544,7 @@
       <workItem from="1607522014281" duration="3354000" />
       <workItem from="1607589130300" duration="18000" />
       <workItem from="1607596417853" duration="10859000" />
-      <workItem from="1607673220589" duration="14763000" />
+      <workItem from="1607673220589" duration="15445000" />
     </task>
     <servers />
   </component>
